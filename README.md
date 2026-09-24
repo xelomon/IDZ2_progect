@@ -44,4 +44,4 @@ project/
 
 
 ## Demo
-https://mesivko.github.io/IDZ2_progect/
+https://xelomon.github.io/IDZ2_progect/
